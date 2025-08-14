@@ -1,1 +1,6 @@
 An Amazon clone is a web application that replicates the design, layout, and core functionality of Amazon’s e-commerce platform — including features like product listings, search, categories, cart, checkout, and user accounts — built using custom HTML, CSS, JavaScript, and optionally backend services.
+
+
+Practiced CSS while making Clone of AMazon.
+
+Author : Sawali Khanke
